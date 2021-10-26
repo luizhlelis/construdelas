@@ -1,4 +1,4 @@
-# Monitoria Construdelas
+# Mentoria Construdelas
 
 Programa de formação para mulheres que querem ingressar na área de tecnologia!👩🏼‍💻
 Foram selecionadas 60 mulheres em vulnerabilidade social, negras e LGBTQIAP+ para receberem um treinamento gratuito com o objetivo de atuarem como desenvolvedoras nas linguagens C# e Python. 💪
