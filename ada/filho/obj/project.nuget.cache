@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbZ6MBRYyqNaUgyCNM/oWur+QCATTesiFinvXuOT0NvvGxriA50nWa8Jz29Qbfg67Ge7MZSeYMMGjt12hFZWXA==",
+  "success": true,
+  "projectFilePath": "/Users/luizhlelis/Desktop/monitoria/construdelas/ada/filho/Ada.Filho.csproj",
+  "expectedPackageFiles": [
+    "/Users/luizhlelis/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/luizhlelis/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
