@@ -1,8 +1,8 @@
 # Construdelas
 
-- [pt-br] Códigos de exemplo utilizados na mentoria.
+- [pt-br] Códigos de exemplo utilizados na mentoria
 
-- [en-us] Sample codes used in mentorship.
+- [en-us] Sample codes used in mentorship
 
 ## Mentoria Construdelas (pt-br)
 
