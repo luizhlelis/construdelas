@@ -1,4 +1,3 @@
-TEST
 # Construdelas
 
 - [pt-br] Códigos de exemplo utilizados na mentoria.
